@@ -1,0 +1,10 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "tachyon"
+version = "0.1"
+description = "Tachyon programming language interpreter"
+authors = [{ name = "Mrinmoy" }]
+dependencies = []
