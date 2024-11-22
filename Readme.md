@@ -5,7 +5,7 @@ Tachyon is an interpreted programming language designed for flexibility and ease
 ## Usage
 - ### Run scripts:
     ```bash
-    python -m tachyon path/to/your/file.xtr
+    python -m tachyon path/to/your/file.tn
     ``` 
 
 - ### Interactive REPL:
